@@ -1,12 +1,7 @@
-## yuyange(于颜阁)
+## yuyange(于颜阁）
 
-欢迎欢迎！！！！
-不用往下翻了！！！
-下面写的是啥我都不知道！！！！！━(￣ー￣*|||━━
-
-You can use the [editor on GitHub](https://github.com/logyuyange/logyuyange.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+student of jlu
+JiLin University
 
 ### Markdown
 
